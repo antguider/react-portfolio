@@ -40,15 +40,15 @@ function App() {
             <Skills />
             <Experience />
           </Wrapper>
-          <Projects openModal={openModal} setOpenModal={setOpenModal} />
+          {/* <Projects openModal={openModal} setOpenModal={setOpenModal} /> */}
           <Wrapper>
             <Education />
-            <Contact />
+            {/* <Contact /> */}
           </Wrapper>
-          <Footer />
+          {/* <Footer />
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
-          }
+          } */}
         </Body>
       </Router>
     </ThemeProvider>

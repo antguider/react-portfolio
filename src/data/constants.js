@@ -101,15 +101,6 @@ export const experiences = [
     company: "GE Vernova",
     date: "May'2018-Present",
     desc: "Leading the design and implementation of scalable software solutions.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
     doc: "",
   },
   {
@@ -119,18 +110,7 @@ export const experiences = [
     company: "Accion Labs",
     date: "Jan'2015-Apr'2018",
     desc: "Mentored and developed a team of software engineers, fostering their professional growth and technical capabilities.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Docker",
-      "AWS",
-      "MongoDB",
-    ],
+     
   },
   {
     id: 2,
@@ -148,13 +128,6 @@ export const experiences = [
     company: "Aithent Technologies",
     date: "May'2011-Oct'2013",
     desc: "Provided application support and troubleshooting for enhanced customer service using the front end technologies",
-    skills: [
-      "Leadership",
-      "Mobile Application Development",
-      "Kotlin",
-      "XML",
-      "Figma",
-    ],
   }
 ];
 
