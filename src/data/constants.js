@@ -119,14 +119,6 @@ export const experiences = [
     date: "Oct'2013-Jan'2015",
     desc: "Supported all phases of the development life cycle, including software evaluations and user support.",
     doc: "",
-  },
-  {
-    id: 3,
-    img: "https://www.aithent.com/wp-content/uploads/2019/08/swirl.png",
-    role: "Software Engineer",
-    company: "Aithent Technologies",
-    date: "May'2011-Oct'2013",
-    desc: "Provided application support and troubleshooting for enhanced customer service using the front end technologies",
   }
 ];
 
