@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/react-portfolio/static/js/main.89abb456.js",
-    "static/media/Mygame.jpg": "/react-portfolio/static/media/Mygame.7059223d50f63178de72.jpg",
-    "index.html": "/react-portfolio/index.html",
-    "main.bf538fe7.css.map": "/react-portfolio/static/css/main.bf538fe7.css.map",
-    "main.89abb456.js.map": "/react-portfolio/static/js/main.89abb456.js.map"
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.7fc831fc.js",
+    "static/media/Mygame.jpg": "/static/media/Mygame.7059223d50f63178de72.jpg",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.7fc831fc.js.map": "/static/js/main.7fc831fc.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.89abb456.js"
+    "static/js/main.7fc831fc.js"
   ]
 }
