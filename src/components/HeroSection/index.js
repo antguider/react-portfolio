@@ -29,7 +29,7 @@ const HeroSection = () => {
                         </TextLoop>
                         <SubTitle>{Bio.description}</SubTitle>
                         <ResumeButton target='display'>
-                           <a style={{"color": "#FFFFFF", "text-decoration": "none"}} href="Muthukumar_React_Node.pdf" download>  Download Resume </a>
+                           <a style={{"color": "#FFFFFF", "text-decoration": "none"}} href="Muthukumar_resume_2024.pdf" download>  Download Resume </a>
                         </ResumeButton>
                     </HeroLeftContainer>
 

@@ -9,7 +9,7 @@ export const Bio = {
     `Passionate software architect dedicated to crafting innovative solutions that blend cutting-edge design principles with robust architectural frameworks,
      driving seamless user experiences and scalable solutions in dynamic technological landscapes.`,
   github: "https://github.com/antguider",
-  resume:"Muthukumar_React_Node.pdf",
+  resume:"Muthukumar_resume_2024.pdf",
   linkedin: "https://www.linkedin.com/in/muthukumar-jayamurugan",
 };
 
