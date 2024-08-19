@@ -1,7 +1,7 @@
 {
   "name": "muthukumar-jayamuragn",
   "version": "1.2.0",
-  "homepage": "https://muthukumar.tech/react-portfolio",
+  "homepage": "https://muthukumar.tech",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
